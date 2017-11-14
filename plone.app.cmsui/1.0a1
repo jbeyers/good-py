@@ -1,0 +1,7 @@
+# Known good set for plone.app.cmsui version 1.0a1
+# The latest version can be found at https://good-py.appspot.com/release/plone.app.cmsui/1.0a1
+
+[versions]
+Products.ResourceRegistries = 2.1a1
+plone.app.cmsui = 1.0a1
+plone.app.jquerytools = 1.3

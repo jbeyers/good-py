@@ -1,0 +1,10 @@
+# Known good set for z3c.relationfield version 0.6.1-3
+# The latest version can be found at https://good-py.appspot.com/release/z3c.relationfield/0.6.1-3
+
+[versions]
+five.intid = 1.0.2
+grokcore.component = 1.9
+martian = 0.11.2
+z3c.objpath = 1.0
+z3c.relationfield = 0.6.1
+zc.relation = 1.0

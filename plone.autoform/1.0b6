@@ -1,0 +1,24 @@
+# Known good set for plone.autoform version 1.0b6
+# The latest version can be found at https://good-py.appspot.com/release/plone.autoform/1.0b6
+
+[versions]
+collective.z3cform.datetimewidget = 1.0.4
+plone.app.textfield = 1.0b7
+plone.app.z3cform = 0.5.3
+plone.autoform = 1.0b6
+plone.directives.form = 1.0b7
+plone.formwidget.autocomplete = 1.1.1
+plone.formwidget.contenttree = 1.0b3
+plone.formwidget.namedfile = 1.0b9
+plone.namedfile = 1.0b6
+plone.scale = 1.2.2
+plone.supermodel = 1.0b6
+plone.z3cform = 0.7.1
+uuid = 1.30
+z3c.batching = 1.1.0
+z3c.blobfile = 0.1.5
+z3c.form = 2.4.2
+z3c.formwidget.query = 0.5
+zc.sourcefactory = 0.6.0
+zope.filerepresentation = 3.6.0
+zope.schema = 3.7.1

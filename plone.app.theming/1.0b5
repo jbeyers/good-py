@@ -1,0 +1,15 @@
+# Known good set for plone.app.theming version 1.0b5
+# The latest version can be found at https://good-py.appspot.com/release/plone.app.theming/1.0b5
+
+[versions]
+WebOb = 1.0.6
+diazo = 1.0rc1
+experimental.cssselect = 0.1
+five.globalrequest = 1.0
+lxml = 2.2.8
+plone.app.theming = 1.0b5
+plone.resource = 1.0b4
+plone.subrequest = 1.6b2
+plone.transformchain = 1.0
+repoze.xmliter = 0.2
+zope.globalrequest = 1.0

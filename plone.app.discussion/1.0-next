@@ -1,0 +1,35 @@
+# Known good set for plone.app.discussion version 1.0-next
+# The latest version can be found at https://good-py.appspot.com/release/plone.app.discussion/1.0-next
+
+# We pin zope.component to 3.5.1 because that pin was used in previous p.a.d KGSs, and it causes errors if you downgrade to 3.4.0
+
+[versions]
+collective.autopermission = 1.0b1
+collective.monkeypatcher = 1.0b2
+collective.z3cform.datagridfield = 0.11
+collective.z3cform.datetimewidget = 1.1.2
+plone.app.discussion = 1.0b4
+plone.app.registry = 1.0b1
+plone.app.textfield = 1.2.1
+plone.app.z3cform = 0.5.7
+plone.autoform = 1.1
+plone.directives.form = 1.0
+plone.formwidget.autocomplete = 1.2.3
+plone.formwidget.contenttree = 1.0.5
+plone.formwidget.namedfile = 1.0.2
+plone.namedfile = 1.0.6
+plone.registry = 1.0b1
+plone.scale = 1.2.2
+plone.supermodel = 1.0.4
+plone.z3cform = 0.7.8
+uuid = 1.30
+z3c.batching = 1.1.0
+z3c.blobfile = 0.1.5
+z3c.form = 2.4.4
+z3c.formwidget.query = 0.8
+z3c.ptcompat = 0.5.7
+z3c.template = 1.2.1
+zc.sourcefactory = 0.6.0
+zope.component = 3.5.1
+zope.filerepresentation = 3.6.0
+zope.schema = 3.7.1

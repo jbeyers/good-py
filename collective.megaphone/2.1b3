@@ -1,0 +1,38 @@
+# Known good set for collective.megaphone version 2.1b3
+# The latest version can be found at https://good-py.appspot.com/release/collective.megaphone/2.1b3
+
+[versions]
+Products.DataGridField = 1.8b1
+Products.PloneFormGen = 1.6.0
+Products.PythonField = 1.1.3
+Products.TALESField = 1.1.3
+Products.TemplateFields = 1.2.5
+collective.cicero = 1.0
+collective.megaphone = 2.1b3
+collective.megaphonecicerolookup = 1.0b1
+collective.z3cform.datetimewidget = 1.0.4
+collective.z3cform.wizard = 1.3.3
+plone.app.jquerytools = 1.1.2
+plone.app.registry = 1.0b2
+plone.app.textfield = 1.0b7
+plone.app.z3cform = 0.5.3
+plone.autoform = 1.0b4
+plone.directives.form = 1.0b7
+plone.formwidget.autocomplete = 1.1.1
+plone.formwidget.contenttree = 1.0b3
+plone.formwidget.namedfile = 1.0b10
+plone.namedfile = 1.0b7
+plone.registry = 1.0b2
+plone.scale = 1.2.2
+plone.supermodel = 1.0b5
+plone.z3cform = 0.7.3
+suds = 0.4
+uuid = 1.30
+z3c.batching = 1.1.0
+z3c.blobfile = 0.1.5
+z3c.form = 2.4.2
+z3c.formwidget.query = 0.5
+z3c.suds = 1.0
+zc.sourcefactory = 0.6.0
+zope.filerepresentation = 3.6.0
+zope.schema = 3.7.1

@@ -1,0 +1,9 @@
+# Known good set for diazo version 1.0b2
+# The latest version can be found at https://good-py.appspot.com/release/diazo/1.0b2
+
+[versions]
+WebOb = 1.0.6
+diazo = 1.0b2
+experimental.cssselect = 0.1
+lxml = 2.2.8
+repoze.xmliter = 0.2

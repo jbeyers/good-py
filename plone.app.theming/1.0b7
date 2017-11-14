@@ -1,0 +1,16 @@
+# Known good set for plone.app.theming version 1.0b7
+# The latest version can be found at https://good-py.appspot.com/release/plone.app.theming/1.0b7
+
+[versions]
+WebOb = 1.0.7
+diazo = 1.0rc2
+experimental.cssselect = 0.1
+lxml = 2.3
+plone.app.theming = 1.0b7
+plone.app.themingplugins = 1.0b1
+plone.recipe.zope2instance = 4.1.7
+plone.resource = 1.0b5
+plone.subrequest = 1.6
+plone.transformchain = 1.0
+repoze.xmliter = 0.3
+z3c.jbot = 0.6.3
